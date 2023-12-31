@@ -1,0 +1,2 @@
+require("aimal")
+print("hello")
